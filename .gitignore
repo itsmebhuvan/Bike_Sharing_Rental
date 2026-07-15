@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Ignore large model files
+Best_BikeRental_Model.pkl
+*.pkl
+logs.txt
+node_modules/# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment
+.env
+.venv/
+
+# Large model files
+*.pkl
+
+# Optional: Ignore datasets if they're large
+# *.csv
